@@ -56,7 +56,7 @@ h2 {
 
 /* banner */
 #main-banner {
-    heigth: 70vh;
+    height: 70vh;
     background-image: url("../img/bg-projeto.jpg");
     background-size: cover;
     padding-top: 15vh;
@@ -127,7 +127,7 @@ h2 {
     justify-content: center;
 }
 
-#skills-container {
+.skills-container {
     flex: 1 1 1;
     text-align: center;
     padding: 60px 25px;
